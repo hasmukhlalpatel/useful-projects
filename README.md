@@ -8,6 +8,8 @@ Tye is a [.NET Foundation](https://www.dotnetfoundation.org/projects) project.
 
 - [Ocelot](https://github.com/ThreeMammals/Ocelot) is a .NET API Gateway. This project is aimed at people using .NET running a micro services / service oriented architecture that need a unified point of entry into their system. However it will work with anything that speaks HTTP and run on any platform that ASP.NET Core supports.
 
+- [eShopModernizing](https://github.com/dotnet-architecture/eShopModernizing) Modernizing ASP.NET Web apps (MVC and WebForms) and N-Tier apps (WCF + WinForms) with Windows Containers and Azure.
+
 - [MediatR](https://github.com/jbogard/MediatR) is a low-ambition library trying to solve a simple problem — decoupling the in-process sending of messages from handling messages. Cross-platform, supporting .NET Framework 4.6.1 and netstandard2.0.
 Author/Owner is [jbogard](https://github.com/jbogard) and his Other Repositories/Projects [AutoMapper](https://github.com/AutoMapper), [HtmlTags](https://github.com/HtmlTags/htmltags)
 
@@ -26,8 +28,7 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 
 ## Blazor github repositories
 - [Blazor REPL](https://github.com/BlazorRepl/BlazorRepl) is a platform for writing, compiling, executing and sharing [Blazor](https://blazor.net) components entirely in the browser.
-- [Blazored](https://github.com/Blazored)
-Libraries and Components designed for Microsoft's Blazor Framework
+- [Blazored](https://github.com/Blazored) Libraries and Components designed for Microsoft's Blazor Framework
 - [Oqtane](https://github.com/oqtane/oqtane.framework) is a Modular Application Framework for Blazor.
 
 - [Blazor Extensions](https://github.com/BlazorExtensions)
@@ -39,4 +40,10 @@ Libraries and Components designed for Microsoft's Blazor Framework
 - [bUnit](https://bunit.egilhansen.com/)
 - [Ant Design Blazor](https://ant-design-blazor.gitee.io/)
 - [blazorfiddle.com](https://blazorfiddle.com/)
+
+## Dotnet core based CMS
+- [Piranha CMS](https://github.com/PiranhaCMS/piranha.core) is the friendly editor-focused CMS for .NET Core that can be used both as an integrated CMS or as a headless API.
+- [Orchard Core](https://github.com/OrchardCMS/OrchardCore) is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that application framework.
+- [Oqtane](https://github.com/oqtane/oqtane.framework) is a Modular Application Framework for Blazor.
+
 
