@@ -25,7 +25,7 @@ Author/Owner is [jbogard](https://github.com/jbogard) and his Other Repositories
 - [Linkerd](https://github.com/linkerd/linkerd2) is an ultralight, security-first service mesh for Kubernetes. Linkerd adds critical security, observability, and reliability features to your Kubernetes stack with no code change required.
 Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) project.
 
-- [IdentityServer3](https://github.com/IdentityServer/IdentityServer4)OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
+- [IdentityServer4](https://github.com/IdentityServer/IdentityServer4)OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
 - [IdentityServer3](https://github.com/IdentityServer/IdentityServer3) OpenID Connect Provider and OAuth 2.0 Authorization Server Framework for ASP.NET 4.x/Katana
 
 
