@@ -22,5 +22,7 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 - [Blazored](https://github.com/Blazored)
 Libraries and Components designed for Microsoft's Blazor Framework
 - [Oqtane](https://github.com/oqtane/oqtane.framework) is a Modular Application Framework for Blazor.
+### Blazior Projects
+- [blazorstrap](https://blazorstrap.io/)
 
 
