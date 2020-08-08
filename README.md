@@ -6,6 +6,8 @@ useful projects including github repositories and websites
 is a developer tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration. 
 Tye is a [.NET Foundation](https://www.dotnetfoundation.org/projects) project.
 
+- [Ocelot](https://github.com/ThreeMammals/Ocelot) is a .NET API Gateway. This project is aimed at people using .NET running a micro services / service oriented architecture that need a unified point of entry into their system. However it will work with anything that speaks HTTP and run on any platform that ASP.NET Core supports.
+
 - [MediatR](https://github.com/jbogard/MediatR) is a low-ambition library trying to solve a simple problem — decoupling the in-process sending of messages from handling messages. Cross-platform, supporting .NET Framework 4.6.1 and netstandard2.0.
 Author/Owner is [jbogard](https://github.com/jbogard) and his Other Repositories/Projects [AutoMapper](https://github.com/AutoMapper), [HtmlTags](https://github.com/HtmlTags/htmltags)
 
