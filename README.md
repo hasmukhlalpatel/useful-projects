@@ -49,4 +49,7 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 - [Orchard Core](https://github.com/OrchardCMS/OrchardCore) is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that application framework.
 - [Oqtane](https://github.com/oqtane/oqtane.framework) is a Modular Application Framework for Blazor.
 
-
+## API Gateway /reverse proxies
+- [Ocelot](https://github.com/ThreeMammals/Ocelot) is a .NET API Gateway. This project is aimed at people using .NET running a micro services / service oriented architecture that need a unified point of entry into their system. However it will work with anything that speaks HTTP and run on any platform that ASP.NET Core supports.
+- [gravitee-io / gravitee-gateway](https://github.com/gravitee-io/gravitee-gateway) Gravitee.io - API Management - OpenSource API Gateway
+- [node-http-proxy](https://github.com/http-party/node-http-proxy) is an HTTP programmable proxying library that supports websockets. It is suitable for implementing components such as reverse proxies and load balancers.
