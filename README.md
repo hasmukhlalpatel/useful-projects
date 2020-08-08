@@ -16,7 +16,7 @@ Author/Owner is [jbogard](https://github.com/jbogard) and his Other Repositories
 Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) project.
 
 
-## Blazore github repositories
+## Blazor github repositories
 - [Blazored](https://github.com/Blazored)
 Libraries and Components designed for Microsoft's Blazor Framework
 - [Oqtane](https://github.com/oqtane/oqtane.framework) is a Modular Application Framework for Blazor.
