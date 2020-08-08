@@ -19,6 +19,7 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 
 
 ## Blazor github repositories
+- [Blazor REPL](https://github.com/BlazorRepl/BlazorRepl) is a platform for writing, compiling, executing and sharing [Blazor](https://blazor.net) components entirely in the browser.
 - [Blazored](https://github.com/Blazored)
 Libraries and Components designed for Microsoft's Blazor Framework
 - [Oqtane](https://github.com/oqtane/oqtane.framework) is a Modular Application Framework for Blazor.
