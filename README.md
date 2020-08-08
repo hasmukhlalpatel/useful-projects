@@ -14,3 +14,8 @@ Author/Owner is [jbogard](https://github.com/jbogard) and his Other Repositories
 
 - [Linkerd](https://github.com/linkerd/linkerd2) is an ultralight, security-first service mesh for Kubernetes. Linkerd adds critical security, observability, and reliability features to your Kubernetes stack with no code change required.
 Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) project.
+
+
+## Blazore github repositories
+- [Blazored](https://github.com/Blazored)
+Libraries and Components designed for Microsoft's Blazor Framework
