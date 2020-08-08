@@ -14,6 +14,10 @@ Author/Owner is [jbogard](https://github.com/jbogard) and his Other Repositories
 - [SharpLab](https://sharplab.io/)  is a .NET code playground that shows intermediate steps and results of code compilation. Some language features are thin wrappers on top of other features -- e.g. using() becomes try/finally. SharpLab allows you to see the code as compiler sees it, and get a better understanding of .NET languages.
  C#/VB/F# compiler playground. Website [SharpLab.io](https://sharplab.io/) & [discoverdot](https://discoverdot.net/projects/sharplab)
 
+- [Polly](https://github.com/App-vNext/Polly) is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
+
+- [OpenFaaS](https://github.com/openfaas/faas) makes it easy for developers to deploy event-driven functions and microservices to Kubernetes without repetitive, boiler-plate coding. Package your code or an existing binary in a Docker image to get a highly scalable endpoint with auto-scaling and metrics.
+
 - [Linkerd](https://github.com/linkerd/linkerd2) is an ultralight, security-first service mesh for Kubernetes. Linkerd adds critical security, observability, and reliability features to your Kubernetes stack with no code change required.
 Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) project.
 
