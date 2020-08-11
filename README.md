@@ -28,6 +28,8 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 - [IdentityServer4](https://github.com/IdentityServer/IdentityServer4) OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
 - [IdentityServer3](https://github.com/IdentityServer/IdentityServer3) OpenID Connect Provider and OAuth 2.0 Authorization Server Framework for ASP.NET 4.x/Katana
 
+- [corewf](https://github.com/UiPath-Open/corewf) a port of the Windows Workflow Foundation (WF) runtime to .NET Core. This project is supported by the [.NET Foundation](https://dotnetfoundation.org).
+
 
 ## Blazor github repositories
 - [Blazor REPL](https://github.com/BlazorRepl/BlazorRepl) is a platform for writing, compiling, executing and sharing [Blazor](https://blazor.net) components entirely in the browser.
