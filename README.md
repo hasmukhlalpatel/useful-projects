@@ -30,6 +30,9 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 
 - [corewf](https://github.com/UiPath-Open/corewf) a port of the Windows Workflow Foundation (WF) runtime to .NET Core. This project is supported by the [.NET Foundation](https://dotnetfoundation.org).
 
+- [OpenSilver](https://github.com/OpenSilver/OpenSilver) is a modern, plugin-free, open-source reimplementation of Silverlight, that runs on current browsers via WebAssembly. It uses Mono for WebAssembly and Microsoft Blazor. It brings back the power of C#, XAML, and .NET to client-side Web development. [Website](https://opensilver.net/)  Author/Owner Giovanni Albani/Userware 
+
+- [cshtml5](https://github.com/OpenSilver/OpenSilver) Plugin-Free .NET in your Browser by compiling C#/XAML to JavaScript/HTML. [Website](http://www.cshtml5.com/) Author/Owner Giovanni Albani/Userware 
 
 ## Blazor github repositories
 - [Blazor REPL](https://github.com/BlazorRepl/BlazorRepl) is a platform for writing, compiling, executing and sharing [Blazor](https://blazor.net) components entirely in the browser.
