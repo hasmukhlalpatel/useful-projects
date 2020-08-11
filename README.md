@@ -41,6 +41,8 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 
 - [Blazor Extensions](https://github.com/BlazorExtensions)
 - [Material Design components for Blazor and Razor Components](https://github.com/SamProf/MatBlazor)  [Website](https://www.matblazor.com/)
+- [OpenSilver](https://github.com/OpenSilver/OpenSilver) is a modern, plugin-free, open-source reimplementation of Silverlight, that runs on current browsers via WebAssembly.
+
 ### Blazor Projects
 - [blazorstrap](https://blazorstrap.io/)
 - [Blazorise](https://blazorise.com/)
