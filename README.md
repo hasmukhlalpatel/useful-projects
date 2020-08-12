@@ -10,8 +10,11 @@ Tye is a [.NET Foundation](https://www.dotnetfoundation.org/projects) project.
 
 - [eShopModernizing](https://github.com/dotnet-architecture/eShopModernizing) Modernizing ASP.NET Web apps (MVC and WebForms) and N-Tier apps (WCF + WinForms) with Windows Containers and Azure.
 
+- [Oqtane](https://github.com/oqtane/oqtane.framework) uses Blazor, an open source and cross-platform web UI framework for building single-page apps using .NET and C# instead of JavaScript. Blazor apps are composed of reusable web UI components implemented using C#, HTML, and CSS. Both client and server code is written in C#, allowing you to share code and libraries.  Author [Shaun Walker](https://github.com/sbwalker) and his other well known proejct is [dotnetnuke - DNN](https://github.com/sbwalker/Dnn.Platform).
+
+
 - [MediatR](https://github.com/jbogard/MediatR) is a low-ambition library trying to solve a simple problem — decoupling the in-process sending of messages from handling messages. Cross-platform, supporting .NET Framework 4.6.1 and netstandard2.0.
-Author/Owner is [jbogard](https://github.com/jbogard) and his Other Repositories/Projects [AutoMapper](https://github.com/AutoMapper), [HtmlTags](https://github.com/HtmlTags/htmltags)
+Author/Owner is [Jimmy Bogard](https://github.com/jbogard) and his Other Repositories/Projects [AutoMapper](https://github.com/AutoMapper), [HtmlTags](https://github.com/HtmlTags/htmltags)
 
 - [Blazor REPL](https://github.com/BlazorRepl/BlazorRepl) is a platform for writing, compiling, executing and sharing [Blazor](https://blazor.net) components entirely in the browser. It's perfect for code playground and testing. It's fast and secure. The platform is built and is running entirely on top of Blazor WASM - the [WebAssembly](https://webassembly.org) hosting model of Blazor. [Demo webiste](https://blazorrepl.com)
 
