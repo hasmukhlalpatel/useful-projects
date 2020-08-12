@@ -34,6 +34,8 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 
 - [cshtml5](https://github.com/OpenSilver/OpenSilver) Plugin-Free .NET in your Browser by compiling C#/XAML to JavaScript/HTML. [Website](http://www.cshtml5.com/) Author/Owner Giovanni Albani/Userware 
 
+- [BlazorWebFormsComponents](https://github.com/FritzAndFriends/BlazorWebFormsComponents) is Blazor for ASP.NET Web Forms Developers. [Blazor for ASP.NET Web Forms developers e-book](https://docs.microsoft.com/en-us/dotnet/architecture/blazor-for-web-forms-developers/)
+
 ## Blazor github repositories
 - [Blazor REPL](https://github.com/BlazorRepl/BlazorRepl) is a platform for writing, compiling, executing and sharing [Blazor](https://blazor.net) components entirely in the browser.
 - [Blazored](https://github.com/Blazored) Libraries and Components designed for Microsoft's Blazor Framework
@@ -44,6 +46,7 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 - [OpenSilver](https://github.com/OpenSilver/OpenSilver) is a modern, plugin-free, open-source reimplementation of Silverlight, that runs on current browsers via WebAssembly.
 
 ### Blazor Projects
+- [blazor-university](https://blazor-university.com/)
 - [blazorstrap](https://blazorstrap.io/)
 - [Blazorise](https://blazorise.com/)
 - [MatBlazor](https://www.matblazor.com/)
