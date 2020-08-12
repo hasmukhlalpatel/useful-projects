@@ -31,6 +31,8 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 - [IdentityServer4](https://github.com/IdentityServer/IdentityServer4) OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
 - [IdentityServer3](https://github.com/IdentityServer/IdentityServer3) OpenID Connect Provider and OAuth 2.0 Authorization Server Framework for ASP.NET 4.x/Katana
 
+- [Identity Manager UI](https://github.com/mguinness/IdentityManagerUI) Identity management system for [ASP.NET Core Identity](https://github.com/aspnet/AspNetCore/tree/master/src/Identity) for use with .NET Core 3.1 and Bootstrap 4.
+
 - [corewf](https://github.com/UiPath-Open/corewf) a port of the Windows Workflow Foundation (WF) runtime to .NET Core. This project is supported by the [.NET Foundation](https://dotnetfoundation.org).
 
 - [OpenSilver](https://github.com/OpenSilver/OpenSilver) is a modern, plugin-free, open-source reimplementation of Silverlight, that runs on current browsers via WebAssembly. It uses Mono for WebAssembly and Microsoft Blazor. It brings back the power of C#, XAML, and .NET to client-side Web development. [Website](https://opensilver.net/)  Author/Owner [Giovanni Albani/Userware](https://github.com/cshtml5)
