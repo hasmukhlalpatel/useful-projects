@@ -39,6 +39,8 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 
 - [BlazorWebFormsComponents](https://github.com/FritzAndFriends/BlazorWebFormsComponents) is Blazor for ASP.NET Web Forms Developers. [Blazor for ASP.NET Web Forms developers e-book](https://docs.microsoft.com/en-us/dotnet/architecture/blazor-for-web-forms-developers/)
 
+- [ASP.NET Core API Endpoints](https://github.com/ardalis/ApiEndpoints) are essentially Razor Pages for APIs. They break apart bloated controllers and group the API models used by individual endpoints with the endpoint logic itself. They provide a simple way to have a single file for the logic and linked files for the model types. Author/Owner [Steve Smith(https://github.com/ardalis)
+
 ## Blazor github repositories
 - [Blazor REPL](https://github.com/BlazorRepl/BlazorRepl) is a platform for writing, compiling, executing and sharing [Blazor](https://blazor.net) components entirely in the browser.
 - [Blazored](https://github.com/Blazored) Libraries and Components designed for Microsoft's Blazor Framework
