@@ -67,6 +67,7 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 - [Piranha CMS](https://github.com/PiranhaCMS/piranha.core) is the friendly editor-focused CMS for .NET Core that can be used both as an integrated CMS or as a headless API.
 - [Orchard Core](https://github.com/OrchardCMS/OrchardCore) is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that application framework.
 - [Oqtane](https://github.com/oqtane/oqtane.framework) is a Modular Application Framework for Blazor.
+- [Peachpie - Wordpress on .NET Core](https://github.com/peachpiecompiler/peachpie) is an open source project that allows for a seamless interoperability between PHP and .NET applications. [Channel9 - On .Net](https://channel9.msdn.com/Shows/On-NET/Wordpress-on-NET-Core)
 
 ## API Gateway /reverse proxies
 - [Ocelot](https://github.com/ThreeMammals/Ocelot) is a .NET API Gateway. This project is aimed at people using .NET running a micro services / service oriented architecture that need a unified point of entry into their system. However it will work with anything that speaks HTTP and run on any platform that ASP.NET Core supports.
