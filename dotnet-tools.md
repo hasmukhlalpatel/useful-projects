@@ -14,3 +14,14 @@ Aside from the WPF UI ILSpy (downloadable via Releases, see also [plugins](https
 * Linux/Mac/Windows command line client - check out [ICSharpCode.Decompiler.Console](ICSharpCode.Decompiler.Console) in this repository
 * Linux/Mac/Windows [PowerShell cmdlets](ICSharpCode.Decompiler.PowerShell) in this repository
 
+- [DNSpy](https://github.com/0xd4d/dnSpy) is a debugger and .NET assembly editor. You can use it to edit and debug assemblies even if you don't have any source code available. Main features:
+
+- Debug .NET and Unity assemblies
+- Edit .NET and Unity assemblies
+- Light and dark themes
+
+See below for more features
+
+![debug-animated](images/debug-animated.gif)
+
+![edit-code-animated](images/edit-code-animated.gif)
