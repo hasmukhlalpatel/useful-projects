@@ -22,6 +22,6 @@ Aside from the WPF UI ILSpy (downloadable via Releases, see also [plugins](https
 
 See below for more features
 
-![debug-animated](images/debug-animated.gif)
+![debug-animated](https://github.com/0xd4d/dnSpy/images/debug-animated.gif)
 
-![edit-code-animated](images/edit-code-animated.gif)
+![edit-code-animated](https://github.com/0xd4d/dnSpy/images/edit-code-animated.gif)
