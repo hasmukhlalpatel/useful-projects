@@ -2,6 +2,9 @@
 
 
 ## github repositories
+
+- [MinVer](https://github.com/adamralph/minver) A minimalistic .NET package for versioning .NET SDK-style projects using Git tags.
+
 - [OLSpy](https://github.com/icsharpcode/ILSpy) is the open-source .NET assembly browser and decompiler.
 It has Decompiler Frontends UIs
 -------
@@ -26,5 +29,3 @@ See below for more features
 
 ![edit-code-animated](https://github.com/0xd4d/dnSpy/raw/master/images/edit-code-animated.gif)
 
-
-- [MinVer](https://github.com/adamralph/minver) A minimalistic .NET package for versioning .NET SDK-style projects using Git tags.
