@@ -25,3 +25,6 @@ See below for more features
 ![debug-animated](https://github.com/0xd4d/dnSpy/raw/master/images/debug-animated.gif)
 
 ![edit-code-animated](https://github.com/0xd4d/dnSpy/raw/master/images/edit-code-animated.gif)
+
+
+- [MinVer](https://github.com/adamralph/minver) A minimalistic .NET package for versioning .NET SDK-style projects using Git tags.
