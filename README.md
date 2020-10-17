@@ -45,7 +45,7 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 
 - [PeachPie Compiler](https://github.com/peachpiecompiler/peachpie) is a modern PHP compiler based on the Microsoft Roslyn compiler platform and drawing from our popular Phalanger project. It allows PHP to be executed within the .NET framework, thereby opening the door for PHP developers into the world of .NET – and vice versa. Authors [Benjamin Fistein](https://github.com/bfistein) & [Jakub Míšek](https://github.com/jakubmisek) Website [peachpie.io](https://www.peachpie.io/getstarted)
 
-- [YARP](https://github.com/microsoft/reverse-proxy) (which stands for "YARP: A Reverse Proxy") is a project to create a reverse proxy server.YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET. The key differentiator for YARP is that it's been designed to be easily customized and tweaked to match the specific needs of each deployment scenario. [Documentation](https://microsoft.github.io/reverse-proxy/)
+- [YARP](https://github.com/microsoft/reverse-proxy) (which stands for "YARP: A Reverse Proxy") is a project to create a reverse proxy server. YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET. The key differentiator for YARP is that it's been designed to be easily customized and tweaked to match the specific needs of each deployment scenario. [Documentation](https://microsoft.github.io/reverse-proxy/)
 
 ## Blazor github repositories
 - [Blazor REPL](https://github.com/BlazorRepl/BlazorRepl) is a platform for writing, compiling, executing and sharing [Blazor](https://blazor.net) components entirely in the browser.
