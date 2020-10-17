@@ -52,6 +52,9 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 - [Blazored](https://github.com/Blazored) Libraries and Components designed for Microsoft's Blazor Framework
 - [Oqtane](https://github.com/oqtane/oqtane.framework) is a Modular Application Framework for Blazor.
 
+- [CarChecker](https://github.com/SteveSandersonMS/CarChecker) a sample application for Blazor which was presented at Build May 2020.  [PWA's with Blazor On DotNet- channel9](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-PWAs-with-Blazor)
+
+- [blazor-workshop](https://github.com/dotnet-presentations/blazor-workshop) 
 - [Blazor Extensions](https://github.com/BlazorExtensions)
 - [Material Design components for Blazor and Razor Components](https://github.com/SamProf/MatBlazor)  [Website](https://www.matblazor.com/)
 - [OpenSilver](https://github.com/OpenSilver/OpenSilver) is a modern, plugin-free, open-source reimplementation of Silverlight, that runs on current browsers via WebAssembly.
