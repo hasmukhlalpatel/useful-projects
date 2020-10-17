@@ -10,6 +10,8 @@ Tye is a [.NET Foundation](https://www.dotnetfoundation.org/projects) project.
 
 - [eShopModernizing](https://github.com/dotnet-architecture/eShopModernizing) Modernizing ASP.NET Web apps (MVC and WebForms) and N-Tier apps (WCF + WinForms) with Windows Containers and Azure.
 
+- [YARP](https://github.com/microsoft/reverse-proxy) (which stands for "YARP: A Reverse Proxy") is a project to create a reverse proxy server. YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET. The key differentiator for YARP is that it's been designed to be easily customized and tweaked to match the specific needs of each deployment scenario. [Documentation](https://microsoft.github.io/reverse-proxy/)
+
 - [Oqtane](https://github.com/oqtane/oqtane.framework) uses Blazor, an open source and cross-platform web UI framework for building single-page apps using .NET and C# instead of JavaScript. Blazor apps are composed of reusable web UI components implemented using C#, HTML, and CSS. Both client and server code is written in C#, allowing you to share code and libraries.  Author [Shaun Walker](https://github.com/sbwalker) and his other well known proejct is [dotnetnuke - DNN](https://github.com/sbwalker/Dnn.Platform).
 
 
@@ -44,8 +46,6 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 - [ASP.NET Core API Endpoints](https://github.com/ardalis/ApiEndpoints) are essentially Razor Pages for APIs. They break apart bloated controllers and group the API models used by individual endpoints with the endpoint logic itself. They provide a simple way to have a single file for the logic and linked files for the model types. Author/Owner [Steve Smith](https://github.com/ardalis)
 
 - [PeachPie Compiler](https://github.com/peachpiecompiler/peachpie) is a modern PHP compiler based on the Microsoft Roslyn compiler platform and drawing from our popular Phalanger project. It allows PHP to be executed within the .NET framework, thereby opening the door for PHP developers into the world of .NET – and vice versa. Authors [Benjamin Fistein](https://github.com/bfistein) & [Jakub Míšek](https://github.com/jakubmisek) Website [peachpie.io](https://www.peachpie.io/getstarted)
-
-- [YARP](https://github.com/microsoft/reverse-proxy) (which stands for "YARP: A Reverse Proxy") is a project to create a reverse proxy server. YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET. The key differentiator for YARP is that it's been designed to be easily customized and tweaked to match the specific needs of each deployment scenario. [Documentation](https://microsoft.github.io/reverse-proxy/)
 
 ## Blazor github repositories
 - [Blazor REPL](https://github.com/BlazorRepl/BlazorRepl) is a platform for writing, compiling, executing and sharing [Blazor](https://blazor.net) components entirely in the browser.
