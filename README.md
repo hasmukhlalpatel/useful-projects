@@ -24,6 +24,7 @@ Author/Owner is [Jimmy Bogard](https://github.com/jbogard) and his Other Reposit
  C#/VB/F# compiler playground. Website [SharpLab.io](https://sharplab.io/) & [discoverdot](https://discoverdot.net/projects/sharplab)
 
 - [Polly](https://github.com/App-vNext/Polly) is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
+ -- [Polly Sample by Carl Franklin](https://github.com/App-vNext/Polly-Samples)
 
 - [OpenFaaS](https://github.com/openfaas/faas) makes it easy for developers to deploy event-driven functions and microservices to Kubernetes without repetitive, boiler-plate coding. Package your code or an existing binary in a Docker image to get a highly scalable endpoint with auto-scaling and metrics.
 
