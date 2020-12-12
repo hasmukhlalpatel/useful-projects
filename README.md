@@ -48,6 +48,8 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 
 - [PeachPie Compiler](https://github.com/peachpiecompiler/peachpie) is a modern PHP compiler based on the Microsoft Roslyn compiler platform and drawing from our popular Phalanger project. It allows PHP to be executed within the .NET framework, thereby opening the door for PHP developers into the world of .NET – and vice versa. Authors [Benjamin Fistein](https://github.com/bfistein) & [Jakub Míšek](https://github.com/jakubmisek) Website [peachpie.io](https://www.peachpie.io/getstarted)
 
+- [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) is an ASP.NET Core rate limiting solution designed to control the rate of requests that clients can make to a Web API or MVC app based on IP address or client ID. 
+
 ## Blazor github repositories
 - [Blazor REPL](https://github.com/BlazorRepl/BlazorRepl) is a platform for writing, compiling, executing and sharing [Blazor](https://blazor.net) components entirely in the browser.
 - [Blazored](https://github.com/Blazored) Libraries and Components designed for Microsoft's Blazor Framework
