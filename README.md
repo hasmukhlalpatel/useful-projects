@@ -82,5 +82,8 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 - [gravitee-io / gravitee-gateway](https://github.com/gravitee-io/gravitee-gateway) Gravitee.io - API Management - OpenSource API Gateway
 - [node-http-proxy](https://github.com/http-party/node-http-proxy) is an HTTP programmable proxying library that supports websockets. It is suitable for implementing components such as reverse proxies and load balancers.
 
+## Azure Projects
+- [Project Bicep - an ARM DSL](https://github.com/Azure/bicep) is a Domain Specific Language (DSL) for deploying Azure resources declaratively. It aims to drastically simplify the authoring experience with a cleaner syntax and better support for modularity and code re-use. Bicep is a transparent abstraction over ARM and ARM templates, which means anything that can be done in an ARM Template can be done in bicep (outside of temporary known limitations). All resource types, apiVersions, and properties that are valid in an ARM template are equally valid in Bicep on day one.
+
 ## Other Proejcts
 - [OpenSilver](https://opensilver.net/) is a modern, plugin-free, open-source reimplementation of Silverlight, that runs on current browsers via WebAssembly. It uses Mono for WebAssembly and Microsoft Blazor. It brings back the power of C#, XAML, and .NET to client-side Web development.
