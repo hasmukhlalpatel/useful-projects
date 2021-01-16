@@ -84,6 +84,8 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 
 ## Azure Projects
 - [Project Bicep - an ARM DSL](https://github.com/Azure/bicep) is a Domain Specific Language (DSL) for deploying Azure resources declaratively. It aims to drastically simplify the authoring experience with a cleaner syntax and better support for modularity and code re-use. Bicep is a transparent abstraction over ARM and ARM templates, which means anything that can be done in an ARM Template can be done in bicep (outside of temporary known limitations). All resource types, apiVersions, and properties that are valid in an ARM template are equally valid in Bicep on day one. [Video on channel9](https://channel9.msdn.com/Shows/DevOps-Lab/Project-Bicep--Next-generation-ARM-Templates)
+- [Azure Terraform Examples](https://github.com/terraform-providers/terraform-provider-azurerm/tree/master/examples) contains examples of using [Terraform's Azure Provider](https://terraform.io/docs/providers/azurerm/index.html) to provision resources in Azure - in which the examples are grouped by the service, for example Virtual Networks or Virtual Machines.
+
 
 ## Other Proejcts
 - [OpenSilver](https://opensilver.net/) is a modern, plugin-free, open-source reimplementation of Silverlight, that runs on current browsers via WebAssembly. It uses Mono for WebAssembly and Microsoft Blazor. It brings back the power of C#, XAML, and .NET to client-side Web development.
