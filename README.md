@@ -70,6 +70,7 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 - [bUnit](https://bunit.egilhansen.com/)
 - [Ant Design Blazor](https://ant-design-blazor.gitee.io/)
 - [blazorfiddle.com](https://blazorfiddle.com/)
+- [Blazored](https://github.com/Blazored) Blazor components git repo written by [Chris Sainty](https://chrissainty.com/aspnet-core/)
 
 ## Dotnet core based CMS
 - [Piranha CMS](https://github.com/PiranhaCMS/piranha.core) is the friendly editor-focused CMS for .NET Core that can be used both as an integrated CMS or as a headless API.
