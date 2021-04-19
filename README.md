@@ -52,7 +52,7 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 
 ## Blazor github repositories
 - [Blazor REPL](https://github.com/BlazorRepl/BlazorRepl) is a platform for writing, compiling, executing and sharing [Blazor](https://blazor.net) components entirely in the browser.
-- [Blazored](https://github.com/Blazored) Libraries and Components designed for Microsoft's Blazor Framework
+- [Blazored](https://github.com/Blazored) Libraries and Components designed for Microsoft's Blazor Framework, written by [Chris Sainty](https://chrissainty.com/aspnet-core/) 
 - [Oqtane](https://github.com/oqtane/oqtane.framework) is a Modular Application Framework for Blazor.
 
 - [CarChecker](https://github.com/SteveSandersonMS/CarChecker) a sample application for Blazor which was presented at Build May 2020.  [PWA's with Blazor On DotNet- channel9](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-PWAs-with-Blazor)
@@ -70,7 +70,6 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 - [bUnit](https://bunit.egilhansen.com/)
 - [Ant Design Blazor](https://ant-design-blazor.gitee.io/)
 - [blazorfiddle.com](https://blazorfiddle.com/)
-- [Blazored](https://github.com/Blazored) Blazor components git repo written by [Chris Sainty](https://chrissainty.com/aspnet-core/)
 
 ## Dotnet core based CMS
 - [Piranha CMS](https://github.com/PiranhaCMS/piranha.core) is the friendly editor-focused CMS for .NET Core that can be used both as an integrated CMS or as a headless API.
