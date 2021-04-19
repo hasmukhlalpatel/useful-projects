@@ -52,7 +52,7 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 
 ## Blazor github repositories
 - [Blazor REPL](https://github.com/BlazorRepl/BlazorRepl) is a platform for writing, compiling, executing and sharing [Blazor](https://blazor.net) components entirely in the browser.
-- [Blazored](https://github.com/Blazored) Libraries and Components designed for Microsoft's Blazor Framework. Author [Chris Sainty](https://github.com/chrissainty) [Website](https://chrissainty.com/aspnet-core/) 
+- [Blazored](https://github.com/Blazored) Libraries and Components designed for Microsoft's Blazor Framework. Author [Chris Sainty](https://github.com/chrissainty) his [Website](https://chrissainty.com/aspnet-core/) 
 - [Oqtane](https://github.com/oqtane/oqtane.framework) is a Modular Application Framework for Blazor. Author [Shaun Walker](https://github.com/sbwalker)
 
 - [CarChecker](https://github.com/SteveSandersonMS/CarChecker) a sample application for Blazor which was presented at Build May 2020.  [PWA's with Blazor On DotNet- channel9](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-PWAs-with-Blazor)
