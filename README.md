@@ -6,6 +6,8 @@ useful projects including github repositories and websites
 is a developer tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration. 
 Tye is a [.NET Foundation](https://www.dotnetfoundation.org/projects) project.
 
+Note [The end of the Tye Experiment](https://github.com/dotnet/tye/issues/1622)  The future of the local orchestrator, and dashboard are now part of [.NET Aspire](https://github.com/dotnet/aspire), it's not an experiment,
+
 - [Ocelot](https://github.com/ThreeMammals/Ocelot) is a .NET API Gateway. This project is aimed at people using .NET running a micro services / service oriented architecture that need a unified point of entry into their system. However it will work with anything that speaks HTTP and run on any platform that ASP.NET Core supports.
 
 - [eShopModernizing](https://github.com/dotnet-architecture/eShopModernizing) Modernizing ASP.NET Web apps (MVC and WebForms) and N-Tier apps (WCF + WinForms) with Windows Containers and Azure.
