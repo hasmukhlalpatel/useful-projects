@@ -95,4 +95,4 @@ Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) proj
 
 ## Other Proejcts
 - [OpenSilver](https://opensilver.net/) is a modern, plugin-free, open-source reimplementation of Silverlight, that runs on current browsers via WebAssembly. It uses Mono for WebAssembly and Microsoft Blazor. It brings back the power of C#, XAML, and .NET to client-side Web development.
-- [https://github.com/dotnet/try-convert] ```archived ``` This is a simple tool that will help in migrating .NET Framework projects to .NET Core.
+- [try-convert](https://github.com/dotnet/try-convert) ```archived ``` This is a simple tool that will help in migrating .NET Framework projects to .NET Core.
