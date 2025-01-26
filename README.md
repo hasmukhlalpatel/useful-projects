@@ -14,6 +14,8 @@ Note [The end of the Tye Experiment](https://github.com/dotnet/tye/issues/1622) 
 
 - [YARP: Yet Another Reverse Proxy](https://github.com/microsoft/reverse-proxy) (which stands for "YARP: A Reverse Proxy") is a project to create a reverse proxy server. YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET. The key differentiator for YARP is that it's been designed to be easily customized and tweaked to match the specific needs of each deployment scenario. [Documentation](https://microsoft.github.io/reverse-proxy/) [On DotNet- channel9](https://channel9.msdn.com/Shows/On-NET/YARP-The-NET-Reverse-proxy?term=yarp&lang-en=true)
 
+- [Technitium DNS Server](https://github.com/TechnitiumSoftware/DnsServer) is a Self host a DNS server for privacy & security, Block ads & malware at DNS level for your entire network!
+
 - [Oqtane](https://github.com/oqtane/oqtane.framework) uses Blazor, an open source and cross-platform web UI framework for building single-page apps using .NET and C# instead of JavaScript. Blazor apps are composed of reusable web UI components implemented using C#, HTML, and CSS. Both client and server code is written in C#, allowing you to share code and libraries.  Author [Shaun Walker](https://github.com/sbwalker) and his other well known proejct is [dotnetnuke - DNN](https://github.com/sbwalker/Dnn.Platform).
 
 
