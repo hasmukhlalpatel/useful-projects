@@ -16,7 +16,7 @@ Note [The end of the Tye Experiment](https://github.com/dotnet/tye/issues/1622) 
 
 - [Technitium DNS Server](https://github.com/TechnitiumSoftware/DnsServer) is a Self host a DNS server for privacy & security, Block ads & malware at DNS level for your entire network! There is another dotnet based [DnsServer](https://github.com/simpleidserver/DnsServer) but it's not up to date in last few years.
   
-- []()
+- [NetProxy](https://github.com/Stormancer/netproxy) is a simple ipv6/ipv4 UDP & TCP proxy based on .NET 5.0. Tested on win10-x64 and ubuntu.16.20-x64.
 
 - [Oqtane](https://github.com/oqtane/oqtane.framework) uses Blazor, an open source and cross-platform web UI framework for building single-page apps using .NET and C# instead of JavaScript. Blazor apps are composed of reusable web UI components implemented using C#, HTML, and CSS. Both client and server code is written in C#, allowing you to share code and libraries.  Author [Shaun Walker](https://github.com/sbwalker) and his other well known proejct is [dotnetnuke - DNN](https://github.com/sbwalker/Dnn.Platform).
 
