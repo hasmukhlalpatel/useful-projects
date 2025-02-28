@@ -2,11 +2,11 @@
 useful projects including github repositories and websites
 
 ## github repositories
-- [Proejct tye](https://github.com/dotnet/tye)
-is a developer tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration. 
+- [.NET Aspire](https://github.com/dotnet/aspire) is an opinionated, cloud ready stack for building observable, production ready, distributed applications. .NET Aspire is delivered through a collection of NuGet packages that handle specific cloud-native concerns. Cloud-native apps often consist of small, interconnected pieces or microservices rather than a single, monolithic code base. Cloud-native apps generally consume a large number of services, such as databases, messaging, and caching.
+  - [Project Tye](https://github.com/dotnet/tye) was the predecessor to [.NET Aspire](https://github.com/dotnet/aspire). Project Tye was an experimental project that explored how to launch and orchestrate micro-services. .NET Aspire is an evolution of Project Tye, and includes its orchestration and deployment capabilities. 
+  - [Proejct Tye](https://github.com/dotnet/tye) is a developer tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration. 
 Tye is a [.NET Foundation](https://www.dotnetfoundation.org/projects) project.
-
-Note [The end of the Tye Experiment](https://github.com/dotnet/tye/issues/1622)  The future of the local orchestrator, and dashboard are now part of [.NET Aspire](https://github.com/dotnet/aspire), it's not an experiment,
+  - Note [The end of the Tye Experiment](https://github.com/dotnet/tye/issues/1622)  The future of the local orchestrator, and dashboard are now part of [.NET Aspire](https://github.com/dotnet/aspire), it's not an experiment,
 
 - [YARP: Yet Another Reverse Proxy](https://github.com/microsoft/reverse-proxy) (which stands for "YARP: A Reverse Proxy") is a project to create a reverse proxy server. YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET. The key differentiator for YARP is that it's been designed to be easily customized and tweaked to match the specific needs of each deployment scenario. [Documentation](https://microsoft.github.io/reverse-proxy/) [On DotNet- channel9](https://channel9.msdn.com/Shows/On-NET/YARP-The-NET-Reverse-proxy?term=yarp&lang-en=true)
 
