@@ -36,9 +36,14 @@ Author/Owner is [Jimmy Bogard](https://github.com/jbogard) and his Other Reposit
 
 - [OpenFaaS](https://github.com/openfaas/faas) makes it easy for developers to deploy event-driven functions and microservices to Kubernetes without repetitive, boiler-plate coding. Package your code or an existing binary in a Docker image to get a highly scalable endpoint with auto-scaling and metrics.
 
+- [Istio](https://github.com/istio/istio) is an open source service mesh that layers transparently onto existing distributed applications. Istio’s powerful features provide a uniform and more efficient way to secure, connect, and monitor services. Istio is the path to load balancing, service-to-service authentication, and monitoring – with few or no service code changes.
+  - Istio is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) project.
+  - [Istio vs. Linkerd: Comparison for Kubernetes Service Mesh](https://overcast.blog/linkerd-vs-istio-comparison-for-kubernetes-service-mesh-7e3c5dfab84f)
+  
 - [Linkerd](https://github.com/linkerd/linkerd2) is an ultralight, security-first service mesh for Kubernetes. Linkerd adds critical security, observability, and reliability features to your Kubernetes stack with no code change required.
-Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) project.
-
+  - Linkerd is a Cloud Native Computing Foundation [CNCF](https://www.cncf.io/) project.
+  - [Linkerd vs. Istio: Comparison for Kubernetes Service Mesh](https://overcast.blog/linkerd-vs-istio-comparison-for-kubernetes-service-mesh-7e3c5dfab84f)
+  
 - [IdentityServer4](https://github.com/IdentityServer/IdentityServer4) OpenID Connect and OAuth 2.0 Framework for ASP.NET Core. Authors [Dominick Baier](https://github.com/leastprivilege) & [Brock Allen](https://github.com/brockallen)
 - [IdentityServer3](https://github.com/IdentityServer/IdentityServer3) OpenID Connect Provider and OAuth 2.0 Authorization Server Framework for ASP.NET 4.x/Katana
 
