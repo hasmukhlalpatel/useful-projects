@@ -10,6 +10,8 @@ Note [The end of the Tye Experiment](https://github.com/dotnet/tye/issues/1622) 
 
 - [Ocelot](https://github.com/ThreeMammals/Ocelot) is a .NET API Gateway. This project is aimed at people using .NET running a micro services / service oriented architecture that need a unified point of entry into their system. However it will work with anything that speaks HTTP and run on any platform that ASP.NET Core supports.
 
+- [eShop Reference Application - "AdventureWorks"](https://github.com/dotnet/eShop) A reference .NET application implementing an e-commerce website using a services-based architecture using [.NET Aspire](https://learn.microsoft.com/dotnet/aspire/).
+
 - [eShopModernizing](https://github.com/dotnet-architecture/eShopModernizing) Modernizing ASP.NET Web apps (MVC and WebForms) and N-Tier apps (WCF + WinForms) with Windows Containers and Azure.
 
 - [YARP: Yet Another Reverse Proxy](https://github.com/microsoft/reverse-proxy) (which stands for "YARP: A Reverse Proxy") is a project to create a reverse proxy server. YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET. The key differentiator for YARP is that it's been designed to be easily customized and tweaked to match the specific needs of each deployment scenario. [Documentation](https://microsoft.github.io/reverse-proxy/) [On DotNet- channel9](https://channel9.msdn.com/Shows/On-NET/YARP-The-NET-Reverse-proxy?term=yarp&lang-en=true)
